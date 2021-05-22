@@ -1,0 +1,1 @@
+SELECT Name FROM STUDENTS WHERE Marks > Marks ORDER BY RIGHT(Name, 3), ID;
